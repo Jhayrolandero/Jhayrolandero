@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cjay!;" />
 </h1>
 
+
 <h3 align="center">An aspiring Software Engineer and Cybersecurity Enthusiast!</h3>
 
 <br/>
@@ -29,6 +30,11 @@
     <img src="https://skillicons.dev/icons?i=php,python,javascript,java,mysql,firebase" /><br>
 </div>
 
+<br/>
+<hr/>
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/xjaylandero.png" alt="Your Image Badge" />
+</div>
 <br/>
 <hr/>
 
